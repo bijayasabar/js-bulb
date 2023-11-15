@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+}
+.container h1{
+    font-size: 44px;
+}
+.btn button{
+    height: 36px;
+    width: 60px;
+    border: 2px solid black;
+    font-size: 22px;
+    text-align: center;
+    margin-inline: 22px;
+    margin-top: 22px;
+}
+img{
+    width: 300px;
+}
